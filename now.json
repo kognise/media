@@ -1,0 +1,8 @@
+{
+  "name": "branding",
+  "version": 2,
+  "alias": [ "kognise-branding" ],
+  "builds": [
+    { "src": "logos/*.png", "use": "@now/static" }
+  ]
+}
