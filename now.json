@@ -3,6 +3,6 @@
   "version": 2,
   "alias": [ "kognise-branding" ],
   "builds": [
-    { "src": "logos/*.png", "use": "@now/static" }
+    { "src": "logos/*", "use": "@now/static" }
   ]
 }
