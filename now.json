@@ -1,9 +1,0 @@
-{
-  "name": "branding",
-  "version": 2,
-  "alias": [ "kognise-branding", "branding.kognise.dev" ],
-  "builds": [
-    { "src": "logos/*", "use": "@now/static" },
-    { "src": "coronabot/*", "use": "@now/static" }
-  ]
-}
